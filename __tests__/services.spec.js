@@ -359,11 +359,11 @@ describe('services', () => {
     ]
     MockDate.set('2022-09-03 08:00:00')
     expect(getDateDiffList()).toEqual([{
-      date: '2015-05-01',
+      date: '2012-09-08',
       diffDay: 2683,
       keyword: 'love_day',
     }, {
-      date: '2020-01-04',
+      date: '2010-09-01',
       diffDay: 974,
       keyword: 'marry_day',
     }, {
