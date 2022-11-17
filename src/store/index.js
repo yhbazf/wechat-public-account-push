@@ -36,8 +36,8 @@ export const TYPE_LIST = [
 export const DEFAULT_OUTPUT = {
   noteEn: 'Nothing in this world that\'s worth having comes easy.',
   noteCh: '这世界上凡是值得拥有的东西，都不易获得。',
-  oneTalk: '世事如书，我偏爱你这一句，愿做个逗号，待在你脚边。宝，等我娶你！',
-  talkFrom: '老公',
+  oneTalk: '我不会说最美的情话，只想和你有个家。宝，等我娶你！',
+  talkFrom: '彬',
   earthyLoveWords: '我今晚会很忙，忙着跟你过日子',
   momentCopyrighting: '错过太阳就不要再错过月亮了',
   poisonChickenSoup: '我从不以强凌弱，我欺负他之前，真不晓得他比我弱。',
