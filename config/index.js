@@ -64,7 +64,8 @@ export const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oURZz6ieVtWsIZz1b_kAkF6vTMd8",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "TyDS-Q44JQwyj3hXmMyzLYYb-DE2Mrqm724V2Vpnm2o",
+      // useTemplateId: "TyDS-Q44JQwyj3hXmMyzLYYb-DE2Mrqm724V2Vpnm2o",
+      useTemplateId: "fsJxXS3PQ6e5ZuTXyC8I412acqIcGjmrX8LuslxiyGA",
       // 所在省份
       province: "河北",
       // 所在城市
@@ -89,7 +90,7 @@ export const USER_CONFIG = {
         // 在一起的日子
         {"keyword": "love_day", date: "2012-09-08"},
         // 结婚纪念日
-        {"keyword": "marry_day", date: "2010-09-01"},
+        {"keyword": "marry_day", date: "2023-09-22"},
         // 退伍日
         // {"keyword": "ex_day", date: "2022-09-10"},
       ]
@@ -211,7 +212,7 @@ export const USER_CONFIG = {
     // 在一起的日子
     {"keyword": "love_day", date: "2012-09-08"},
     // 结婚纪念日
-    {"keyword": "marry_day", date: "2010-09-01"},
+    {"keyword": "marry_day", date: "2023-09-22"},
     // 退伍日
     // {"keyword": "ex_day", date: "2022-09-10"},
     // 你可以不断按格式往下增加
