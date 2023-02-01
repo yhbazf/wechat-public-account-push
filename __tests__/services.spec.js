@@ -350,7 +350,7 @@ describe('services', () => {
       // 在一起的日子
       { keyword: 'love_day', date: '2012-09-08' },
       // 结婚纪念日
-      { keyword: 'marry_day', date: '2010-09-01' },
+      { keyword: 'marry_day', date: '2023-09-22' },
       // 退伍日, 不用可以删掉
       { keyword: 'ex_day', date: '2022-09-09' },
       // sakana日
@@ -363,7 +363,7 @@ describe('services', () => {
       diffDay: 2683,
       keyword: 'love_day',
     }, {
-      date: '2010-09-01',
+      date: '2022-09-22',
       diffDay: 974,
       keyword: 'marry_day',
     }, {
