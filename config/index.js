@@ -95,42 +95,25 @@ export const USER_CONFIG = {
         {"keyword": "ex_day", date: "2023-08-15"},
       ]
     },
-//     {
-//       name: "老婆1",
-//       id: "",
-//       useTemplateId: "",
-//       province: "",
-//       city: "",
-//       horoscopeDate: '',
-//       horoscopeDateType: '',
-//       openUrl: "https://wangxinleo.cn",
-//       festivals: [],
-//       customizedDateList: []
-//     },
-//     {
-//       name: "老婆2",
-//       id: "",
-//       useTemplateId: "",
-//       province: "",
-//       city: "",
-//       horoscopeDate: '',
-//       horoscopeDateType: '',
-//       openUrl: "https://wangxinleo.cn",
-//       festivals: [],
-//       customizedDateList: []
-//     },
-//     {
-//       name: "老婆3",
-//       id: "",
-//       useTemplateId: "",
-//       province: "",
-//       city: "",
-//       horoscopeDate: '',
-//       horoscopeDateType: '',
-//       openUrl: "https://wangxinleo.cn",
-//       festivals: [],
-//       customizedDateList: []
-//     },
+    {
+      name: "站在星空下的那个人",
+      id: "oURZz6s0jFi_UUlahdgjRD6IuyPk",
+      useTemplateId: "pxDcEttW-Y-JfePpk2jXx8LJ82Ry1sESe1IYWa_htcQ",
+      province: "北京",
+      city: "北京",
+      horoscopeDate: '06-29',
+      horoscopeDateType: '今日',
+      openUrl: "https://wangxinleo.cn",
+      festivals: [
+        {"type": "*生日", "name": "老公", "year": "1995", "date": "06-29"},
+        {"type": "节日", "name": "在一起纪念日", "year": "2012", "date": "09-08"},
+      ],
+      customizedDateList: [
+        {"keyword": "love_day", date: "2012-09-08"},
+        {"keyword": "marry_day", date: "2023-09-22"},
+        {"keyword": "ex_day", date: "2023-08-15"},
+      ]
+    },
     // 你可以不断按格式往下增加
     // ...
   ],
