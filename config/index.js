@@ -92,7 +92,7 @@ export const USER_CONFIG = {
         // 结婚纪念日
         {"keyword": "marry_day", date: "2023-09-22"},
         // 领证日期
-        {"keyword": "ex_day", date: "2022-08-15"},
+        {"keyword": "ex_day", date: "2023-08-15"},
       ]
     },
 //     {
@@ -214,7 +214,7 @@ export const USER_CONFIG = {
     // 结婚纪念日
     {"keyword": "marry_day", date: "2023-09-22"},
     // 领证日期
-    {"keyword": "ex_day", date: "2022-08-15"},
+    {"keyword": "ex_day", date: "2023-08-15"},
     // 你可以不断按格式往下增加
     // ...
   ],
