@@ -352,7 +352,7 @@ describe('services', () => {
       // 结婚纪念日
       { keyword: 'marry_day', date: '2023-09-22' },
       // 领证日期
-      { keyword: 'ex_day', date: '2022-08-15' },
+      { keyword: 'ex_day', date: '2023-08-15' },
       // sakana日
       // {"keyword": "sakana_day", date: "2022-01-06"},
       // ...
